@@ -1,0 +1,52 @@
+﻿1
+00:00:00,080 --> 00:00:02,870
+‫So just a quick lecture about course review. Very shortly
+
+2
+00:00:02,880 --> 00:00:08,370
+‫Udemy will ask you to give your opinion about this course and ask that you put a star rating. The star rating
+
+3
+00:00:08,370 --> 00:00:11,690
+‫represents the entire course overall not just if you like what you've just seen
+
+4
+00:00:11,910 --> 00:00:14,240
+‫So basically these reviews, they mean a lot to me.
+
+5
+00:00:14,250 --> 00:00:18,080
+‫And they represent your opinion about the course. They're super important and I would love one from you
+
+6
+00:00:18,380 --> 00:00:20,520
+‫but if you're not ready to rate the course.
+
+7
+00:00:20,520 --> 00:00:25,520
+‫Just click on "ask me later" and the prompt will come back maybe half an hour or an hour later.
+
+8
+00:00:25,770 --> 00:00:28,130
+‫Overall in this course we're going to start by the fundamentals.
+
+9
+00:00:28,140 --> 00:00:33,300
+‫And so if you're already a certified solutions architect you can skip the few fundamental lectures or sections
+
+10
+00:00:33,600 --> 00:00:35,810
+‫or you can just watch them if you want a quick refresher.
+
+11
+00:00:36,030 --> 00:00:36,450
+‫OK.
+
+12
+00:00:36,450 --> 00:00:38,240
+‫I really hope you'll enjoy this course.
+
+13
+00:00:38,250 --> 00:00:39,700
+‫I will see you in the next lecture.
+

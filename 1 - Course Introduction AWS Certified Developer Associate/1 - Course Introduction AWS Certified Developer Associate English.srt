@@ -1,0 +1,240 @@
+﻿1
+00:00:00,000 --> 00:00:01,269
+‫Hello, and welcome to the
+
+2
+00:00:01,269 --> 00:00:03,750
+‫AWS Certified Developer Associate Course.
+
+3
+00:00:03,750 --> 00:00:06,720
+‫My name is Stephane Maarek, and I will be your instructor.
+
+4
+00:00:06,720 --> 00:00:08,070
+‫So we're starting in five minutes.
+
+5
+00:00:08,070 --> 00:00:10,230
+‫Let's just go over some prerequisites.
+
+6
+00:00:10,230 --> 00:00:13,860
+‫So we're going to prepare for the DVA-C02 certification,
+
+7
+00:00:13,860 --> 00:00:15,660
+‫and although it's a challenging certification,
+
+8
+00:00:15,660 --> 00:00:18,720
+‫I will try to make this course as interesting as possible
+
+9
+00:00:18,720 --> 00:00:20,970
+‫to cover everything you need to know.
+
+10
+00:00:20,970 --> 00:00:24,720
+‫And as such, we will cover over 30 AWS services.
+
+11
+00:00:24,720 --> 00:00:26,670
+‫So we have a lot to learn, but don't worry,
+
+12
+00:00:26,670 --> 00:00:28,140
+‫we'll go step by step.
+
+13
+00:00:28,140 --> 00:00:31,290
+‫Even if you're an IT or an AWS beginner, you're welcome,
+
+14
+00:00:31,290 --> 00:00:33,120
+‫but take your time, this is not a race,
+
+15
+00:00:33,120 --> 00:00:35,730
+‫and haggle with me with the hands-on.
+
+16
+00:00:35,730 --> 00:00:38,640
+‫You don't need to be a developer to pass the developer exam,
+
+17
+00:00:38,640 --> 00:00:41,040
+‫but it definitely helps to have some coding background.
+
+18
+00:00:41,040 --> 00:00:43,620
+‫Now, if this is your second AWS certification
+
+19
+00:00:43,620 --> 00:00:44,453
+‫and you've done the
+
+20
+00:00:44,453 --> 00:00:46,350
+‫Certified Solutions Architect beforehand,
+
+21
+00:00:46,350 --> 00:00:47,910
+‫try not to skip any lectures.
+
+22
+00:00:47,910 --> 00:00:50,340
+‫After the seventh section, yes, there are some new content
+
+23
+00:00:50,340 --> 00:00:52,140
+‫regarding the Certified Developer exam,
+
+24
+00:00:52,140 --> 00:00:54,000
+‫but please review the first lectures.
+
+25
+00:00:54,000 --> 00:00:56,010
+‫It will be always good for you
+
+26
+00:00:56,010 --> 00:00:58,170
+‫to rehash that basic knowledge.
+
+27
+00:00:58,170 --> 00:00:59,490
+‫Okay, so what about me?
+
+28
+00:00:59,490 --> 00:01:01,200
+‫So I've passed the certification twice,
+
+29
+00:01:01,200 --> 00:01:06,200
+‫so once in 2018, and I scored with 984, so only one mistake,
+
+30
+00:01:07,350 --> 00:01:11,070
+‫and then, very recently, in April 16th, 2020,
+
+31
+00:01:11,070 --> 00:01:12,900
+‫I've scored again 982.
+
+32
+00:01:12,900 --> 00:01:15,240
+‫I wanted to make sure that this course was up to date,
+
+33
+00:01:15,240 --> 00:01:16,290
+‫and trust me, it is.
+
+34
+00:01:16,290 --> 00:01:19,050
+‫I've updated all the lectures that needed to be updated
+
+35
+00:01:19,050 --> 00:01:22,650
+‫to pass the exam with flying colors in 2020.
+
+36
+00:01:22,650 --> 00:01:23,640
+‫So what's AWS?
+
+37
+00:01:23,640 --> 00:01:25,710
+‫If you're new to this, this is a cloud provider,
+
+38
+00:01:25,710 --> 00:01:29,640
+‫and with the AWS, you're able to have services and servers
+
+39
+00:01:29,640 --> 00:01:32,580
+‫that can be used on demand and scales very easily.
+
+40
+00:01:32,580 --> 00:01:34,230
+‫This has allowed companies
+
+41
+00:01:34,230 --> 00:01:36,660
+‫to run a website for, say, millions of people,
+
+42
+00:01:36,660 --> 00:01:39,930
+‫with only three or five engineers, which is crazy.
+
+43
+00:01:39,930 --> 00:01:42,420
+‫So AWS has revolutionized IT over time,
+
+44
+00:01:42,420 --> 00:01:44,640
+‫and now it powers some of the biggest websites in the world
+
+45
+00:01:44,640 --> 00:01:45,930
+‫that you know of, for example,
+
+46
+00:01:45,930 --> 00:01:49,470
+‫obviously Amazon.com, but also Netflix.
+
+47
+00:01:49,470 --> 00:01:51,360
+‫So this course is very complete.
+
+48
+00:01:51,360 --> 00:01:53,760
+‫We'll be learning all of these things and more,
+
+49
+00:01:53,760 --> 00:01:56,100
+‫and this may be daunting at first, but don't worry,
+
+50
+00:01:56,100 --> 00:01:57,210
+‫we'll go step by step.
+
+51
+00:01:57,210 --> 00:01:58,350
+‫Don't feel afraid.
+
+52
+00:01:58,350 --> 00:01:59,370
+‫But as you can tell,
+
+53
+00:01:59,370 --> 00:02:02,370
+‫there's a lot of things we have to learn in this course.
+
+54
+00:02:02,370 --> 00:02:04,590
+‫So I like to call AWS a spaghetti bowl
+
+55
+00:02:04,590 --> 00:02:06,240
+‫because it is a complete mess,
+
+56
+00:02:06,240 --> 00:02:09,060
+‫but we'll try together to navigate through it
+
+57
+00:02:09,060 --> 00:02:11,880
+‫and together learn all the services we need
+
+58
+00:02:11,880 --> 00:02:14,430
+‫for you to become an AWS certified developer.
+
+59
+00:02:14,430 --> 00:02:15,900
+‫So thank you so much for watching,
+
+60
+00:02:15,900 --> 00:02:17,850
+‫and I will see you in the next lecture.
+
