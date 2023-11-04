@@ -1,0 +1,296 @@
+﻿1
+00:00:00,000 --> 00:00:01,890
+‫Hi, and welcome.
+
+2
+00:00:01,890 --> 00:00:03,130
+‫{\an8}My name is Stephane Maarek,
+
+3
+00:00:03,130 --> 00:00:05,540
+‫{\an8}and I will be your instructor for this course.
+
+4
+00:00:05,540 --> 00:00:07,110
+‫I'm delighted to have you here.
+
+5
+00:00:07,110 --> 00:00:09,030
+‫I really hope that you enjoy this course
+
+6
+00:00:09,030 --> 00:00:11,550
+‫and that you will go all the way through with it.
+
+7
+00:00:11,550 --> 00:00:13,520
+‫This is just a two minutes introduction
+
+8
+00:00:13,520 --> 00:00:14,810
+‫so that you get to know me.
+
+9
+00:00:14,810 --> 00:00:17,050
+‫And then we'll hop it right into the course.
+
+10
+00:00:17,050 --> 00:00:19,950
+‫I'm French, so if you hear a small accent,
+
+11
+00:00:19,950 --> 00:00:21,140
+‫this is where it comes from.
+
+12
+00:00:21,140 --> 00:00:22,920
+‫The sweet country of France.
+
+13
+00:00:22,920 --> 00:00:25,010
+‫But I've also lived in the United States,
+
+14
+00:00:25,010 --> 00:00:28,180
+‫in Australia, in Mexico, and now in Portugal.
+
+15
+00:00:28,180 --> 00:00:31,457
+‫My expertise is going to be around AWS certifications
+
+16
+00:00:31,457 --> 00:00:33,190
+‫and Apache Kafka.
+
+17
+00:00:33,190 --> 00:00:34,023
+‫Why?
+
+18
+00:00:34,023 --> 00:00:35,670
+‫Well, because in my career, I've had the chance
+
+19
+00:00:35,670 --> 00:00:39,720
+‫to be a data analyst, a big data engineer, a developer,
+
+20
+00:00:39,720 --> 00:00:42,230
+‫and an AWS solutions architect.
+
+21
+00:00:42,230 --> 00:00:45,240
+‫And obviously, well, (chuckles) today, I'm a teacher.
+
+22
+00:00:45,240 --> 00:00:47,540
+‫I love to teach, and this is my passion.
+
+23
+00:00:47,540 --> 00:00:50,220
+‫And I wanna help you achieve any goal you have
+
+24
+00:00:50,220 --> 00:00:51,600
+‫through online learning.
+
+25
+00:00:51,600 --> 00:00:53,130
+‫Before we get started with this course,
+
+26
+00:00:53,130 --> 00:00:55,300
+‫there are two ways you can connect with me.
+
+27
+00:00:55,300 --> 00:00:57,110
+‫First place is on LinkedIn,
+
+28
+00:00:57,110 --> 00:00:59,850
+‫{\an8}this is where I will share more professional updates,
+
+29
+00:00:59,850 --> 00:01:03,920
+‫{\an8}such as news on the AWS and the Kafka ecosystem,
+
+30
+00:01:03,920 --> 00:01:06,570
+‫{\an8}course releases, and most importantly,
+
+31
+00:01:06,570 --> 00:01:07,970
+‫{\an8}where I will congratulate you
+
+32
+00:01:07,970 --> 00:01:10,410
+‫{\an8}if you tag me on your course certificates.
+
+33
+00:01:10,410 --> 00:01:12,810
+‫{\an8}So for example, if you just completed the course
+
+34
+00:01:12,810 --> 00:01:16,250
+‫{\an8}or passed a certification, make a post and mention me.
+
+35
+00:01:16,250 --> 00:01:18,390
+‫{\an8}And I will make sure to congratulate you.
+
+36
+00:01:18,390 --> 00:01:20,460
+‫I love to see my students reach their goals,
+
+37
+00:01:20,460 --> 00:01:22,290
+‫this is my main motivation.
+
+38
+00:01:22,290 --> 00:01:24,440
+‫The second way is on Instagram.
+
+39
+00:01:24,440 --> 00:01:26,480
+‫{\an8}Instagram is a big project of mine
+
+40
+00:01:26,480 --> 00:01:28,770
+‫{\an8}that I started over two years ago.
+
+41
+00:01:28,770 --> 00:01:30,410
+‫{\an8}I love to travel the world
+
+42
+00:01:30,410 --> 00:01:33,150
+‫{\an8}and I decided to meet students along the way.
+
+43
+00:01:33,150 --> 00:01:35,560
+‫{\an8}Every time I go to a new destination,
+
+44
+00:01:35,560 --> 00:01:38,580
+‫{\an8}I'll make a post and I will try to meet students.
+
+45
+00:01:38,580 --> 00:01:42,010
+‫{\an8}And to date, I've already met over 25 students.
+
+46
+00:01:42,010 --> 00:01:44,140
+‫{\an8}Anytime, I meet with students, we'll have a chat
+
+47
+00:01:44,140 --> 00:01:46,870
+‫{\an8}about your goals, how the course helps you,
+
+48
+00:01:46,870 --> 00:01:49,800
+‫{\an8}your achievements, your career, and then at the end,
+
+49
+00:01:49,800 --> 00:01:51,290
+‫{\an8}I will make a post about it.
+
+50
+00:01:51,290 --> 00:01:53,014
+‫{\an8}So if you wanna get a chance to meet me
+
+51
+00:01:53,014 --> 00:01:55,140
+‫{\an8}or read about other students' story
+
+52
+00:01:55,140 --> 00:01:57,960
+‫{\an8}or get more personal behind the scenes updates,
+
+53
+00:01:57,960 --> 00:01:59,700
+‫then follow me on Instagram.
+
+54
+00:01:59,700 --> 00:02:01,740
+‫Finally, before starting this course,
+
+55
+00:02:01,740 --> 00:02:03,740
+‫I want you to set a goal.
+
+56
+00:02:03,740 --> 00:02:06,400
+‫By setting a goal, you will have a much higher chance
+
+57
+00:02:06,400 --> 00:02:08,950
+‫of finishing this course and learning a lot.
+
+58
+00:02:08,950 --> 00:02:10,270
+‫So maybe you wanna finish your course
+
+59
+00:02:10,270 --> 00:02:12,530
+‫in three weeks, that's perfect.
+
+60
+00:02:12,530 --> 00:02:15,400
+‫Take a piece of paper and a pen, write your goal on it,
+
+61
+00:02:15,400 --> 00:02:16,870
+‫and then stick with it.
+
+62
+00:02:16,870 --> 00:02:17,860
+‫This is how you learn
+
+63
+00:02:17,860 --> 00:02:20,440
+‫and this is how you'll make the most out of this course.
+
+64
+00:02:20,440 --> 00:02:22,260
+‫And don't hesitate to go through the lectures
+
+65
+00:02:22,260 --> 00:02:23,780
+‫as many times as needed.
+
+66
+00:02:23,780 --> 00:02:25,850
+‫This is what video is used for.
+
+67
+00:02:25,850 --> 00:02:28,460
+‫If necessary, you can speed up or slow down
+
+68
+00:02:28,460 --> 00:02:30,530
+‫the playback speed so it becomes easier
+
+69
+00:02:30,530 --> 00:02:32,160
+‫for you to understand me.
+
+70
+00:02:32,160 --> 00:02:33,370
+‫So that's it for me.
+
+71
+00:02:33,370 --> 00:02:34,940
+‫I hope you will enjoy this course.
+
+72
+00:02:34,940 --> 00:02:37,400
+‫And I will see you in the next lecture.
+
+73
+00:02:37,400 --> 00:02:38,237
+‫Happy learning.
+
+74
+00:02:38,237 --> 00:02:40,904
+‫{\an8}(upbeat music)
+
